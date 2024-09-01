@@ -62,3 +62,17 @@ I decided to use React since I knew it best and it would be able to create beaut
 
 https://github.com/user-attachments/assets/209521c8-6114-46fd-95a9-e34c5731b3f4
 
+https://github.com/user-attachments/assets/d7b35af8-3f67-44d7-9ba8-52b2a0283a9b
+
+### Main Takeaways
+Design Takeaways
+
+This was my first industry design experience. I learned what it meant to design in a team, and receive feedback from supervisors and peers.
+
+I also learned how to design with a clear business objective. It was very enjoyable to have a clear problem and goal, and work my way to a solution.
+
+Technical Takeaways
+
+Empathy for your fellow developer. As I had to build anything I dreamt up, I learned what it takes to actually program something - and make sure it works in many edge cases. 
+
+One of the most important design / technical mechanics I learned more about are micro interactions. They should be used sparingly, and only in places where they unexpectedly delight a user. And of course, don't make them impossible to code.
