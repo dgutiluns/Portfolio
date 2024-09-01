@@ -57,3 +57,8 @@ Myself and one other intern developed a python script that could iterate through
 The Frontend:
 We decided the front end should be accessed through a web browser, so clients need not download software. This led us to using React, as it was a great library for accessible and beautiful interfaces.
 I decided to use React since I knew it best and it would be able to create beautiful frontend UI. I learned a lot about how difficult it can be to turn these design dreams into realities.
+
+### Development
+
+https://github.com/user-attachments/assets/209521c8-6114-46fd-95a9-e34c5731b3f4
+
