@@ -2,8 +2,11 @@
 
 ## Education
 University of California, Berkeley
+
 Bachelor of Economics and Data Science
+
 Graduation Date: May 2027
+
 GPA: 3.94
 
 ## Work Experience
