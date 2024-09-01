@@ -9,6 +9,11 @@ Graduation Date: May 2027
 
 GPA: 3.94
 
+The Data Science Toolbox										
+John Hopkins University (Coursera)
+- Certification in R programming language 
+
+
 ## Work Experience
 Data and Product Intern - Apollo Studios  						     
 Intern	         			        							             
