@@ -56,7 +56,7 @@ Challenges: The client was forced to just accept data presented in inaccessible 
 There was a lack of customization in the date ranges and individual bot insights. They also faced difficulty in quickly understanding the statuses and performance of their bots. 
 They also were dependent on Apollo Studios to provide insights, rather than easily accessing them whenever.
 
-### Developing a Solution
+#### Developing a Solution
 
 The Backend:
 We needed to first develop the python script that could analyze the MongoDB database. This involved some iterations in generating insights although this is irrelevant to the current design process.
@@ -66,13 +66,13 @@ The Frontend:
 We decided the front end should be accessed through a web browser, so clients need not download software. This led us to using React, as it was a great library for accessible and beautiful interfaces.
 I decided to use React since I knew it best and it would be able to create beautiful frontend UI. I learned a lot about how difficult it can be to turn these design dreams into realities.
 
-### Development
+#### Development
 
 https://github.com/user-attachments/assets/209521c8-6114-46fd-95a9-e34c5731b3f4
 
 https://github.com/user-attachments/assets/d7b35af8-3f67-44d7-9ba8-52b2a0283a9b
 
-### Main Takeaways
+#### Main Takeaways
 Design Takeaways
 
 This was my first industry design experience. I learned what it meant to design in a team, and receive feedback from supervisors and peers.
@@ -84,3 +84,14 @@ Technical Takeaways
 Empathy for your fellow developer. As I had to build anything I dreamt up, I learned what it takes to actually program something - and make sure it works in many edge cases. 
 
 One of the most important design / technical mechanics I learned more about are micro interactions. They should be used sparingly, and only in places where they unexpectedly delight a user. And of course, don't make them impossible to code.
+
+### Automated Email Report
+#### Overview
+During my internship at Apollo Studios I was given a task with another intern to develop an automated email report that would be sent out monthly to each one of Apollo's customers giving them a full summary on the performance of their bots. The report would include an introduction followed by a table displaying various stats summarising the performance of the bots in a simple comprehenive overview. 
+
+The process consisted of cleaning the data from the database to make it understandable for the customers and allow them to engage with the activity of their bots. We started with over 4 million entries as a base to develop the program. The program would filter out multiple layers to find all the bots that are active in a given company then calculate the relevant statistics to add to the table.
+
+The design of the email was also important. The email was a representation of the company and we wanted to seem confident in the preformance in our bots and by being transparent in a professional looking manner it in invokes trust in the client for our service. The full service at the end was hosted on AWS and successfully ran and emailed out reports to all clients individually.
+
+### The Problem with Past Reporting Methods
+Apollo began getting inqueries from their clients asking how they can evaluate whether or not contniuing with their service was cost efficient or not. It became essential that the clients were able to see the performance of their bots including: how active they were, how many times they failed, and how many times they were successful. Another imporant aspect was that the clients should have been able to understand the information that allows them weigh whether or not the bot it worth it. In other words, the infromation that we give to them should be concise and clear and presented in a way that they would comprehend. Before the commencement of the development of this email service, clients could not evaluate the real succes of their bots. Apollo as a company wanted to be transparent and show that they are confident in the perforamnce of their service and wanted to start this monthly email report to continue to build long lasting relationships with their clients that depended on trust. 
