@@ -95,3 +95,19 @@ The design of the email was also important. The email was a representation of th
 
 ### The Problem with Past Reporting Methods
 Apollo began getting inqueries from their clients asking how they can evaluate whether or not contniuing with their service was cost efficient or not. It became essential that the clients were able to see the performance of their bots including: how active they were, how many times they failed, and how many times they were successful. Another imporant aspect was that the clients should have been able to understand the information that allows them weigh whether or not the bot it worth it. In other words, the infromation that we give to them should be concise and clear and presented in a way that they would comprehend. Before the commencement of the development of this email service, clients could not evaluate the real succes of their bots. Apollo as a company wanted to be transparent and show that they are confident in the perforamnce of their service and wanted to start this monthly email report to continue to build long lasting relationships with their clients that depended on trust. 
+
+## Room Radar App
+### Overview:
+This porject was part of a Data Science club at UC Berkeley called Open Project. We aimed to develop an app that alerts students about room availability across campus at all times. I worked with a team of four and we divided into frontend, backend, and Data Science focused groups. I was mainly in the Data Science and frontend team. The main issue we aimed to address was overloaded libraries by providing students with insights on other available study spots. The beginning of the project depended a lot on the data team to collect, clean, and present all the data on room schedules and resrvations to create a dynamic schedule for students to use. 
+
+Once the data team was done I worked on the frontend development and interface design of the app which was equally as important. For the frontend development I worked a lot with HTML and Javascript to develop the interactive features, structure content on pages, and make the interface appealing to the audience. Before this stage a lot of the UI was designed using Figma to visualize the interactive features and develop a variety of prototypes. We experimented with different effects and animations and were able to create a responsive design with unique features. Finally, we worked on integrating these designs with the backend APIs to deploy the app on a hosting service that would ensure optimal performance.
+
+### Purpose of the App:
+During midterm and exams seasons the libraries receive a lot more traffic and students struggle to find a spot to study. There are time when I spend more time trying to find a spot than actually studying. At Berkeley there are hundereds of rooms usually used as classrooms for lectures or discussions that are vacant the majority of the time. All these rooms could be used as study rooms but most students don't know that studying in these rooms is an option. Room Radar aimed to compile data on the availibility of all rooms on campus and organize them into a comprehensive format where students can know about the availibilty of rooms, sign up for rooms, and report empty ones. 
+
+### Main Takeaways:
+This project was my first time working and meeting my team so it took a lot of organization and collaboartion to ensure that all parts of the project were being covered. The projects could not all be done at the same time, so the start of someone work depended a lot on another person finishing their part of the project. Moreover, not everyone was specialized on a specific part of the project and instead we all worked to help each other on areas in which we felt stuck. 
+
+Technical Takeaways:
+The frontend experince from this projects was a great opporuntity for me to advance my familiarity with JavaScript and sharpen my design skills on Figma. T
+
